@@ -1,7 +1,9 @@
-#Modules
+# Modules
 
 npm install --save @angular/material @angular/cdk hammerjs
+
 npm install material-design-icons --save
+
 npm install --save @angular/animations
 
 # Phonebook
