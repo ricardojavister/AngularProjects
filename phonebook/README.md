@@ -1,3 +1,9 @@
+#Modules
+
+npm install --save @angular/material @angular/cdk hammerjs
+npm install material-design-icons --save
+npm install --save @angular/animations
+
 # Phonebook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
